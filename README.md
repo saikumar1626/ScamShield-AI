@@ -193,7 +193,9 @@ scamshield/
 
 ---
 
-### 📊 Analytics Dashboard
+## 📊 Analytics Dashboard
+
+> ⚠️ Note: This demo is hosted on Render's free tier, which uses an ephemeral filesystem — stats shown here may reset periodically when the service restarts.
 
 ![Dashboard](screenshots/screenshots_dashboard.png)
 
