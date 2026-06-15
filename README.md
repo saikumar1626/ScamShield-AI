@@ -105,7 +105,7 @@ Key findings:
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/scamshield.git
+git clone https://github.com/saikumar1626/ScamShield-AI
 cd scamshield
 pip install -r requirements.txt
 cp .env.example .env
