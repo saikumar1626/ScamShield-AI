@@ -34,11 +34,9 @@ Most commercial spam/fraud filters are trained primarily on **English-language d
 
 ## 📸 Live Demo
 
-A real scam message sent over WhatsApp, analyzed and explained in real time:
+## 📸 Live Demo
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/16Kja6olxFLfeUYJ9JQOmx7rah621BVD-/view?usp=drive_link" alt="ScamShield WhatsApp demo showing a scam message flagged with 97% confidence, detected tactics False Reward and Suspicious Link" width="380"/>
-</p>
+🎥 [Watch the demo video](https://drive.google.com/file/d/16Kja6olxFLfeUYJ9JQOmx7rah621BVD-/view?usp=drive_link) — a real scam message sent over WhatsApp, analyzed and explained in real time.
 
 > *Message: "Congratulations! You won ₹15000 cashback. Click https://bit.ly/payupi"*
 > **Response:** ⚠️ This message looks like a SCAM (97% confidence). Detected: False Reward, Suspicious Link. Do not click links or share OTP/PIN.
