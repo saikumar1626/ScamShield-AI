@@ -183,32 +183,31 @@ scamshield/
 
 ### 🏠 Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/screenshots_homepage.png)
 
 ---
 
 ### 🔍 Scam Detection
 
-![Scam Detection](screenshots/scam_detection.png)
+![Scam Detection](screenshots/screenshots_scam_detection.png)
 
 ---
 
 ### 📊 Analytics Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/screenshots_dashboard.png)
 
 ---
 
 ### 📖 API Documentation
 
-![Swagger](screenshots/swagger_api.png)
+![Swagger](screenshots/screenshots_swagger.png)
 
 ---
 
 ### 📱 WhatsApp Integration
 
-![WhatsApp Demo](screenshots/whatsapp_demo.png)
-
+![WhatsApp](screenshots/screenshots_whatsapp_demo.png)
 ---
 
 ## 🔭 Limitations & Future Work
