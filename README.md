@@ -37,7 +37,7 @@ Most commercial spam/fraud filters are trained primarily on **English-language d
 A real scam message sent over WhatsApp, analyzed and explained in real time:
 
 <p align="center">
-  <img src="docs/images/whatsapp_demo.png" alt="ScamShield WhatsApp demo showing a scam message flagged with 97% confidence, detected tactics False Reward and Suspicious Link" width="380"/>
+  <img src="https://drive.google.com/file/d/16Kja6olxFLfeUYJ9JQOmx7rah621BVD-/view?usp=drive_link" alt="ScamShield WhatsApp demo showing a scam message flagged with 97% confidence, detected tactics False Reward and Suspicious Link" width="380"/>
 </p>
 
 > *Message: "Congratulations! You won ₹15000 cashback. Click https://bit.ly/payupi"*
