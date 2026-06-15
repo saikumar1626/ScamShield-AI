@@ -32,20 +32,13 @@ Most commercial spam/fraud filters are trained primarily on **English-language d
 
 ---
 
-## 📸 Live Demo
+## 🌐 Live Demo
 
-## 📸 Live Demo
+**Web App**
+https://scamshield-ai-glhm.onrender.com/
 
-🎥 [Watch the demo video](https://drive.google.com/file/d/16Kja6olxFLfeUYJ9JQOmx7rah621BVD-/view?usp=drive_link) — a real scam message sent over WhatsApp, analyzed and explained in real time.
-
-> *Message: "Congratulations! You won ₹15000 cashback. Click https://bit.ly/payupi"*
-> **Response:** ⚠️ This message looks like a SCAM (97% confidence). Detected: False Reward, Suspicious Link. Do not click links or share OTP/PIN.
-
-API documentation (auto-generated via FastAPI/OpenAPI):
-
-<p align="center">
-  <img src="docs/images/api_docs.png" alt="ScamShield FastAPI Swagger documentation showing /api/analyze, /api/sms-webhook, /api/feedback, /api/stats endpoints" width="600"/>
-</p>
+**API Docs**
+https://scamshield-ai-glhm.onrender.com/docs
 
 ---
 
